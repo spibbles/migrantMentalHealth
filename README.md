@@ -1,0 +1,2 @@
+# migrantMentalHealth
+I made this project during the Girls Who Code self paced program. As an immigrant, I was motivated to create this project because I have experienced the attitudes towards mental health, and the lack of support in my community. The purpose of this project is to raise awareness of the struggles immigrants face when it comes to mental health and the ways individuals can support those who are struggling.
